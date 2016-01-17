@@ -1,0 +1,21 @@
+
+Parallax: 
+	http://s.bootply.com/render/OjJ1hQCxdR
+
+Fonts & Color: 
+	http://www.bootstrapzero.com/bootstrap-template/sectionalize
+	http://www.bootply.com/render/129806
+
+Fonts: 
+	http://www.bootstrapzero.com/bootstrap-template/munter
+	http://blacktie.co/demo/munter/
+
+Color Combination + Fonts:
+	https://www.zirtual.com/
+
+Color:
+	https://unroll.me/
+	https://colibri.io/
+
+Bg Image for parralax:
+	http://www.dgbrt.fr/ 
