@@ -1580,7 +1580,7 @@ hr.star-light-blue:after{
 
     position: relative;
     background: #f2f2f2;
-    border-top: 1px solid rgba(191, 189, 189, 0.7);
+    /* border-top: 1px solid rgba(191, 189, 189, 0.7); */
     border-bottom: 1px solid rgba(191, 189, 189, 0.7);
     min-height: 300px;
     padding: 20px 0px;
@@ -1606,7 +1606,10 @@ hr.star-light-blue:after{
     right: 0;
 }
 
-
+.chevrons .container,.chevrons .container-fluid{
+	    position: relative;
+    z-index: 10;
+}
 
 .navbar-content
 {
@@ -1631,6 +1634,96 @@ margin-right: 15px !important;
 .dropdown-menu {
 padding: 0px;
 overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+.promo .BigTitle {
+	width: 100%;
+    font-size: 5em;
+    color: orange;
+    font-weight: 200;
+    text-align: left;
+    padding: 24px 0 24px 0;
+    line-height: 1.5em;
+}
+
+.promo .high-light {
+	/* width: 100%; */
+	font-size: 3em;
+	color: orangered;
+	
+	font-weight: 300;
+	text-align: left;
+	padding: 10px 0 10px 0;
+}
+ .promo p {
+	font-size: 22px;
+	font-weight: 300;
+	color: #444;
+	margin: 10px 0px;
+	line-height: 30px;
+}
+
+ .promo .countries {
+	margin-top: 10px;
+}
+.promo .countries ul {
+	list-style: none;
+	padding: 0px;
+}
+
+.promo .countries li {
+	font-size: 22px;
+	font-weight: 300;
+	color: #444;
+	margin: 4px 0px;
+	display: inline-block;
+	width: 48%;
+}
+
+.promo .highlighter {
+	font-size: 3em;
+	color: orangered;
+	
+	font-weight: 300;
+	text-align: center;
+	padding: 10px 0 10px 0;
+}
+
+.btn-opt-or{
+	color: white;
+    padding: 8px;
+    
+  
+}
+
+.btn-opt-or2{
+	color: white;
+    background: rgba(255, 255, 255, 0.82);
+    
+    border-radius: 15px;
+    margin: 16px 5px;
+    height: 8px;
+    width: 8px;
+}
+.btn-opt-or2-cell{
+	color: white;
+    padding: 8px;
+    color: white;
+    background: rgba(255, 255, 255, 0.82);
+    
+    border-radius: 15px;
+    margin: 12px auto;
+    height: 8px;
+    width: 8px;
 }
 /*****************************************************/
 /****************** Agency Ends ********************/
